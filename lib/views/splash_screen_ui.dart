@@ -55,20 +55,20 @@ class _SplashScreenUIState extends State<SplashScreenUI> {
             ),
             Text(
               'แชร์เงินกันเถอะ',
-              style: GoogleFonts.kanit(
+              style: GoogleFonts.itim(
                 fontSize: MediaQuery.of(context).size.height * 0.045,
                 color: Colors.white,
               ),
             ),
             Text(
               'Copyright © 2024 by Kanchai DTI-SAU',
-              style: GoogleFonts.kanit(
+              style: GoogleFonts.itim(
                 color: Colors.white,
               ),
             ),
             Text(
               'version 1.0.0',
-              style: GoogleFonts.kanit(
+              style: GoogleFonts.itim(
                 color: Colors.white,
               ),
             ),
