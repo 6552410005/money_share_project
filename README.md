@@ -1,16 +1,18 @@
-# money_share_project
+# money_share_project แชร์เงินกันเถอะ
 
-A new Flutter project.
+Created By : Kanchai Singkhot DTI-SAU
 
-## Getting Started
+## CalculateUI
 
-This project is a starting point for a Flutter application.
+<!-- ![Screenshot_1715695796](https://github.com/6552410005/money_share_project/assets/113956880/5c333e6a-1b95-46e0-9d39-0de5cf88b5ed) -->
+<img src="https://github.com/6552410005/money_share_project/assets/113956880/5c333e6a-1b95-46e0-9d39-0de5cf88b5ed" width="150px">
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ResultUI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- ![Screenshot_1715695819](https://github.com/6552410005/money_share_project/assets/113956880/54e73f90-6b34-4c31-a65f-35d3264641a2) -->
+<img src="https://github.com/6552410005/money_share_project/assets/113956880/54e73f90-6b34-4c31-a65f-35d3264641a2" width="150px">
+
+
+
